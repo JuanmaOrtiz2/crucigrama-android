@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jugadores>
+  <jugador>
+    <nombre>Juanma</nombre>
+    <puntuacion3>
+      <byv>0</byv>
+      <csyz>0</csyz>
+      <hynoh>0</hynoh>
+      <llyy>0</llyy>
+      <gyj>0</gyj>
+      <mezcla>0</mezcla>
+    </puntuacion3>
+    <puntuacion4>
+      <byv>0</byv>
+      <csyz>0</csyz>
+      <hynoh>0</hynoh>
+      <llyy>0</llyy>
+      <gyj>0</gyj>
+      <mezcla>0</mezcla>
+    </puntuacion4>
+    <puntuacion5>
+      <byv>0</byv>
+      <csyz>0</csyz>
+      <hynoh>0</hynoh>
+      <llyy>0</llyy>
+      <gyj>0</gyj>
+      <mezcla>0</mezcla>
+    </puntuacion5>
+  </jugador>
+</jugadores>

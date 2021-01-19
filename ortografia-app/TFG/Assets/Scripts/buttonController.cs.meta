@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7a48c1b862f297b4c97827190d43a430
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cuadradoNormal: {fileID: 4786143398425758579, guid: 0e83399d0e699b949938b99a5887d8c6,
+      type: 3}
+  - cuadradoSeleccionado: {fileID: 786818342169444083, guid: 98a77e0ebe56561408cda14a01946a86,
+      type: 3}
+  - cuadradoMarcado: {fileID: 3650494167552106489, guid: d2e487b1da52743409c03099bb72a08a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

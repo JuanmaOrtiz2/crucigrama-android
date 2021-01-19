@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+  <jugador>
+    <nombre>root</nombre>
+    <puntuacion3>100</puntuacion3>
+    <puntuacion4>100</puntuacion4>
+    <puntuacion5>100</puntuacion5>
+  </jugador>
+  <jugador>
+    <nombre>Juanma</nombre>
+    <puntuacion3>0</puntuacion3>
+    <puntuacion4>0</puntuacion4>
+    <puntuacion5>0</puntuacion5>
+  </jugador>
+</jugadores>
